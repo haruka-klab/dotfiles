@@ -1,5 +1,5 @@
 # dotfiles
 .vim
 ```
-ln -fs .vimsrc ~/.vimsrc
+ln -fs .vimrc ~/.vimrc
 ```
